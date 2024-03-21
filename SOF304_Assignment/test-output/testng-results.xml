@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T14:37:41 ICT" name="Default suite" finished-at="2023-12-07T14:38:13 ICT" duration-ms="32241">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T14:37:41 ICT" name="Default test" finished-at="2023-12-07T14:38:13 ICT" duration-ms="32241">
+      <class name="com.poly.test.testng.CreateVideoTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:37:41 ICT" name="init" finished-at="2023-12-07T14:37:41 ICT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:37:42 ICT" name="setUp" finished-at="2023-12-07T14:37:49 ICT" duration-ms="7352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createVideoTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:37:49 ICT" name="createVideoTest" data-provider="createVideoData" finished-at="2023-12-07T14:37:52 ICT" duration-ms="3047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lừa Dối - Maya [LYRIC VIDEO]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8DiPHu-DPV0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lừa Dối - Maya [LYRIC VIDEO]]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Thêm mới thành công]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createVideoTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:37:52 ICT" name="tearDown" finished-at="2023-12-07T14:37:53 ICT" duration-ms="630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createVideoTest status=SUCCESS method=CreateVideoTest.createVideoTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:37:53 ICT" name="setUp" finished-at="2023-12-07T14:37:57 ICT" duration-ms="4806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createVideoTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:37:57 ICT" name="createVideoTest" data-provider="createVideoData" finished-at="2023-12-07T14:38:00 ICT" duration-ms="2665" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Thêm mới thất bại]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createVideoTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:38:00 ICT" name="tearDown" finished-at="2023-12-07T14:38:00 ICT" duration-ms="196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createVideoTest status=SUCCESS method=CreateVideoTest.createVideoTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:38:00 ICT" name="setUp" finished-at="2023-12-07T14:38:08 ICT" duration-ms="7893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createVideoTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:38:08 ICT" name="createVideoTest" data-provider="createVideoData" finished-at="2023-12-07T14:38:12 ICT" duration-ms="3368" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lừa Dối - Maya [LYRIC VIDEO]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8DiPHu-DPV0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lừa Dối - Maya [LYRIC VIDEO]]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Thêm mới thành công]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Thêm mới thành công] but found [Thêm mới thất bại]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Thêm mới thành công] but found [Thêm mới thất bại]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.poly.test.testng.CreateVideoTest.createVideoTest(CreateVideoTest.java:121)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createVideoTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:38:12 ICT" name="tearDown" finished-at="2023-12-07T14:38:12 ICT" duration-ms="604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createVideoTest status=FAILURE method=CreateVideoTest.createVideoTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:com.poly.test.testng.CreateVideoTest@424e1977]" started-at="2023-12-07T14:38:12 ICT" name="destroy" finished-at="2023-12-07T14:38:13 ICT" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- com.poly.test.testng.CreateVideoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
